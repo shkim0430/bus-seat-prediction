@@ -1,0 +1,15 @@
+.env
+data/
+backup/
+logs/
+*.db
+*.sqlite
+*.sqlite3
+__pycache__/
+*.pyc
+venv/
+.venv/
+.claude/
+.vscode/
+# 작업 메모(내부 IP·계정명 포함) — 로컬에만 유지
+CLAUDE.md
